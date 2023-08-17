@@ -1,0 +1,19 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/GiveFreely.Api/bin/Debug/net6.0
+/GiveFreely.Api/obj
+/GiveFreely.Common/bin/Debug/net6.0
+/GiveFreely.Common/obj
+/GiveFreely.Contracts/bin/Debug/net6.0
+/GiveFreely.Contracts/obj
+/GiveFreely.DataAccess/bin/Debug/net6.0
+/GiveFreely.DataAccess/obj
+/GiveFreely.Engine/bin/Debug/net6.0
+/GiveFreely.Engine/obj/Debug/net6.0
+/GiveFreely.Engine/obj
+/GiveFreely.Models/bin/Debug/net6.0
+/GiveFreely.Models/obj
+/GiveFreely.Test/bin/Debug/net6.0
+/GiveFreely.Test/obj
